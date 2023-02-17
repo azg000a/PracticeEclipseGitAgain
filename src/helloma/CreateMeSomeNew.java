@@ -8,4 +8,6 @@ public class CreateMeSomeNew {
 		System.out.println("I love selenium");
 	}
 
+	public void stopCreatingNonsense(){
+	}
 }
