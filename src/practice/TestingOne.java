@@ -8,7 +8,9 @@ public class TestingOne {
 		System.out.println("Hello");
 		
 		
-		
+		public void hello(){
+			system.out.println("Kachaloo");
+		}
 		
 	}
 
